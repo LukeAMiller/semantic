@@ -1,0 +1,13 @@
+/* nav whole block */
+.nav{
+    display:flex;
+    flex-direction:row;
+    justify-content: space-evenly
+}
+/* indivdual nav items */
+.nav__item{
+ 
+font-family: Helvetica;
+color:black;
+text-decoration: none;
+}
